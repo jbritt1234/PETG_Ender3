@@ -4,3 +4,4 @@ I'm running a Triangle Labs V6 all-metal hot end.  If you are running the stock 
 
 Included is a temp tower I created that uses "safe" temp ranges for PETG with a stock hot end.
 https://www.thingiverse.com/thing:3608105
+
